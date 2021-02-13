@@ -1,7 +1,16 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
 }
 
+/* .navbar-light {
+    color: #fbf6f0;
+    background-color: #aee6e6;
+}
+
+div div a {
+    color: #fbf6f0;
+} */
 /* a {
     text-decoration: none;
 } */
